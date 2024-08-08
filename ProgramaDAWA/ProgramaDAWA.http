@@ -1,0 +1,6 @@
+@ProgramaDAWA_HostAddress = http://localhost:5166
+
+GET {{ProgramaDAWA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
